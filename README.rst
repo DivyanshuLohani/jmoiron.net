@@ -7,6 +7,8 @@ trivial applications.  There is a particular focus in attempting to keep
 project organization somewhat loosely coupled while also exploring what is
 idiomatic to Flask (and by extension similar microframeworks).
 
+You can get the requirements from requirements.txt
+
 It's a port of the code that operates `jmoiron.net`_, from `django`_ and
 `postgresql`_ to `flask`_ and `mongodb`_, with a few other major version
 changes thrown in.  It uses `micromongo`_ for mongo access.
